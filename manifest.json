@@ -1,0 +1,17 @@
+{
+  "name": "20 Second Stars",
+  "short_name": "20 Seconds",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "./assets/star.png",
+      "sizes": "40x40",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
