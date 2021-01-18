@@ -131,7 +131,7 @@ setInterval(() => {
     timeleft--;
     timeleftText.setText("Time Left: " + timeleft);
   } else if (timeleft == 0) {
-    // alert("Game Over! Play again?");
+    alert("Game Over! Play again?");
     timeleft = 60;
     window.location.reload();
   }
